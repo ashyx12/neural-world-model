@@ -1,0 +1,4 @@
+environment: empty
+model: persistence
+seeds: 100
+max_steps: 100
